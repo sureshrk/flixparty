@@ -1,1 +1,3 @@
 export GITHUB_TOKEN=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
+
+https://github.com/sureshrk/flixparty.git
